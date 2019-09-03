@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\GenerateStoredProcedure\GenerateStoredProcedure\bin\Debug\GenerateStoredProcedure.exe.config
+C:\Users\admin\Desktop\GenerateStoredProcedure\GenerateStoredProcedure\bin\Debug\GenerateStoredProcedure.exe
+C:\Users\admin\Desktop\GenerateStoredProcedure\GenerateStoredProcedure\bin\Debug\GenerateStoredProcedure.pdb
+C:\Users\admin\Desktop\GenerateStoredProcedure\GenerateStoredProcedure\obj\Debug\GenerateStoredProcedure.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\GenerateStoredProcedure\GenerateStoredProcedure\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\GenerateStoredProcedure\GenerateStoredProcedure\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\GenerateStoredProcedure\GenerateStoredProcedure\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\GenerateStoredProcedure\GenerateStoredProcedure\obj\Debug\GenerateStoredProcedure_MarkupCompile.cache
+C:\Users\admin\Desktop\GenerateStoredProcedure\GenerateStoredProcedure\obj\Debug\GenerateStoredProcedure.g.resources
+C:\Users\admin\Desktop\GenerateStoredProcedure\GenerateStoredProcedure\obj\Debug\GenerateStoredProcedure.Properties.Resources.resources
+C:\Users\admin\Desktop\GenerateStoredProcedure\GenerateStoredProcedure\obj\Debug\GenerateStoredProcedure.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\GenerateStoredProcedure\GenerateStoredProcedure\obj\Debug\GenerateStoredProcedure.exe
+C:\Users\admin\Desktop\GenerateStoredProcedure\GenerateStoredProcedure\obj\Debug\GenerateStoredProcedure.pdb
+C:\Users\admin\Desktop\GenerateStoredProcedure\GenerateStoredProcedure\obj\Debug\GeneratedInternalTypeHelper.g.cs
